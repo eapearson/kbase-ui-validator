@@ -1,0 +1,17 @@
+{
+  "name": "kbase-ui-bower-validator",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "erik",
+  "contributors": [],
+  "dependencies": {
+    "bluebird": "3.1.1",
+    "bower-json": "0.6.0"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}
